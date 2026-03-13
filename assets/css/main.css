@@ -2,10 +2,10 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,600,700,300i,600i,700i|Raleway:600,800");
 
 :root {
-    --color-accent-rgb: 73, 252, 212;
+    --color-accent-rgb: 252, 73, 168;
     --color-accent: rgb(var(--color-accent-rgb));
-    --color-accent-light: #2ee4bb;
-    --color-accent-dark: #43d9b8;
+    --color-accent-light: #ff82be;
+    --color-accent-dark: #b43278;
 }
 
 /*
